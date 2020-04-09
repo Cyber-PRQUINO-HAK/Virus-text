@@ -19,8 +19,20 @@ Virus ponsel - Virus yang berjalan di telepon seluler, dan dapat menimbulkan ber
 Cara mengatasi
 Serangan virus dapat dicegah atau ditanggulangi dengan menggunakan antivirus. Jenis perangkat lunak ini dapat juga mendeteksi dan menghapus virus komputer. Virus komputer ini dapat dihapus dengan basis data (database/ Signature-based detection), heuristik, atau peringkat dari program itu sendiri (Quantum).
 
-Referensi
-^ Dr. Solomon's Virus Encyclopedia, 1995, ISBN 1-897661-00-2, Abstract at http://vx.netlux.org/lib/aas10.html
-Pranala luar
-Virus komputer di Curlie (dari DMOZ)
-Nuvola apps mycomputer.svg 	Artikel bertopik komputer ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.
+#  install
+```bash
+$ apt update & upgrade 
+$ apt install python 
+$ apt install nano
+$ apt install lolcat
+$ apt install git 
+$ apt install python2
+$ apt indtall figlet 
+$ git clone https://github.com/Cyber-PRQUINO-HAK/Virus-text
+$ ls 
+$ python VIRUS GANAS.py
+```
+####GITHUP
+ [https://github.com/Cyber-PRQUINO-HAK/Virus-text](#untuk-kontributor)
+
+
