@@ -13,6 +13,10 @@ Trojan - Mengambil data pada komputer yang telah terinfeksi dan mengirimkannya p
 Backdoor - Hampir sama dengan trojan. Namun, Backdoor bisanya menyerupai file yang baik-baik saja. Misalnya game.
 Spyware - Virus yang memantau komputer yang terinfeksi.
 Rogue - merupakan program yang meniru program antivirus dan menampilkan aktivitas layaknya antivirus normal, dan memberikan peringatan-peringatan palsu tentang adanya virus. Tujuannya adalah agar pengguna membeli dan mengaktivasi program antivirus palsu itu dan mendatangkan uang bagi pembuat virus rogue tersebut. Juga rogue dapat membuka celah keamanan dalam komputer guna mendatangkan virus lain.
+
+
+<img src="image 3.jpg">
+
 Rootkit - Virus yang bekerja menyerupai kerja sistem komputer yang normal. Virus ini dapat menyerupai program root komputer.
 Polymorphic virus - Virus yang gemar beubah-ubah agar tidak dapat terdeteksi.
 Metamorphic virus - Virus yang mengubah pengkodeannya sendiri agar lebih sulit dideteksi.
