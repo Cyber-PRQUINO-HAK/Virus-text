@@ -24,6 +24,10 @@ Virus ponsel - Virus yang berjalan di telepon seluler, dan dapat menimbulkan ber
 Cara mengatasi
 Serangan virus dapat dicegah atau ditanggulangi dengan menggunakan antivirus. Jenis perangkat lunak ini dapat juga mendeteksi dan menghapus virus komputer. Virus komputer ini dapat dihapus dengan basis data (database/ Signature-based detection), heuristik, atau peringkat dari program itu sendiri (Quantum).
 
+
+<img src="Screenshot_2018-05-16-14-02-38-picsay.jpg">
+
+
 #  install
 ```bash
 $ apt update & upgrade 
