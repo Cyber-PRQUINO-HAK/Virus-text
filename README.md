@@ -58,6 +58,8 @@ clear
 nano VIRUS TEXT.py
 ```
 
+<img src="images.jpg">
+
 ###DISINI KALIAN COPY AND PASTE SAJA SCRIPT NYA 
 ```bash
 import random
