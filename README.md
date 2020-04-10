@@ -31,7 +31,13 @@ $ apt indtall figlet
 $ git clone https://github.com/Cyber-PRQUINO-HAK/Virus-text
 $ ls 
 $ cd Virus-text
-$ python VIRUS TEXT.py
+$ nano 1.VIRUS GANAS.txt
+$ nano 2.VIRUS GANAS.txt
+$ nano 3.VIRUS GANAS.txt
+$ nano 4.VIRUS GANAS.txt
+$ nano 5.VIRUS GANAS.txt
+$ nano 6.VIRUS GANAS.txt
+$ nano 7.VIRUS GANAS.txt
 ```
 ###JIKA TOOLS INI TIDAK BISA AKAN TERDAPAT TULISAN
 ```bash
